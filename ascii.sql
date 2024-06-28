@@ -29,5 +29,6 @@ END;
 
 SHOW ERRORS
 -- commit
+--show errors
 
 REM End of Script
