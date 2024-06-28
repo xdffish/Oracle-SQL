@@ -30,5 +30,6 @@ END;
 SHOW ERRORS
 -- commit
 --show errors
+-- abc
 
 REM End of Script
